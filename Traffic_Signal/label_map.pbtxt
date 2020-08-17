@@ -1,0 +1,28 @@
+item{
+	id:1
+	name:"Red_1"
+
+}
+item{
+	id:2
+	name:"Red_2"
+
+}
+item{
+	id:3
+	name:"Amber_1"
+
+}
+item{
+	id:4
+	name:"Amber_2"
+
+}
+item{
+	id:5
+	name:"Green_1"
+}
+item{
+	id:6
+	name:"Green_2"
+}
